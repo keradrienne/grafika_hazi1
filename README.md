@@ -17,6 +17,6 @@ A megoldás során a következő függvényeket valósítsa meg és használja f
 
 Az egyes kisfeladatok elkészítéséhez csak az OpenGl 3.3 és glut függvények használhatók.
 
-A környezet adott volt. A megvalósított feladat kódja a következő helyen található: GrafikaHazi_1\Programs\Skeleton\Skeleton.cpp 
+A környezet adott volt. A megvalósított feladat kódja a következő helyen található: GrafikaHazi_1\Programs\Skeleton\Skeleton\Skeleton.cpp
 
 A program futtaható a GrafikaHazi_1\Programs\Skeleton\bin\Skeleton.exe futtatásával.
